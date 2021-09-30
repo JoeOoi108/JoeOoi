@@ -17,10 +17,6 @@ font-size: 36px;
 
 color: #55ff55; }
 
-.col-lg-4 {
-	border: 1px solid; }
-
-
 </style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -63,14 +59,9 @@ color: #55ff55; }
 
 
 		<nav>
-	<h1><a href="http://www1.pu.edu.tw/~tcyang" 
-		class="text-reset text-decoration-none text-white bg-primary">楊子青 (Tzyy-Ching Yang) </a></h1>
-	
-	<h2><a href="https://www.pu.edu.tw/"
-		class="text-reset text-decoration-none text-white bg-primary">靜宜大學 </a>
-		
-		<a href="https://csim.pu.edu.tw/"
-		class="text-reset text-decoration-none text-white bg-primary">資訊管理學系</a></h2>
+	<h1><a href="http://www1.pu.edu.tw/~tcyang">楊子青 (Tzyy-Ching Yang) </a></h1>
+	<h2><a href="https://www.pu.edu.tw/">靜宜大學 </a>
+		<a href="https://csim.pu.edu.tw/">資訊管理學系</a></h2>
 		</nav>
 
 	<img src="family.jpg" alt="照片" class="img-fluid rounded-circle">
@@ -82,12 +73,8 @@ color: #55ff55; }
 	<header>關於我</header>
 	<h3>職稱：靜宜大學資訊管理學系副教授</h3>
 	<h3>經歷：靜宜大學服務學習發展中心兼產業學院推動辦公室主任(2012年8月～2015年8月)</h3>
-	<h3>tel:<a href="tel:0426328001,18110"
-		class="text-reset text-decoration-none text-white bg-primary"
->04-26328001#18110</a></h3>
-	<h3>E-Mail:<a href="mailto:tcyang@pu.edu.tw"
-		class="text-reset text-decoration-none text-white bg-primary"
->tcyang@pu.edu.tw</a></h3>
+	<h3>tel:<a href="tel:0426328001,18110">04-26328001#18110</a></h3>
+	<h3>E-Mail:<a href="mailto:tcyang@pu.edu.tw">tcyang@pu.edu.tw</a></h3>
 </session>
 
 <article id='bookmark'class="col-lg-4">
